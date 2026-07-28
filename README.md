@@ -123,7 +123,7 @@ Malware Development (lab)  █████░░░░░░░░░░░░�
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=xC0D3F4TH3R&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&text_color=ffffff"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xC0D3F4TH3R&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=ffffff"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryantomar898-gif&theme=dark&hide_border=true&background=0d1117&stroke=FF0000&ring=FF0000&fire=FF6600&currStreakLabel=FF0000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xC0D3F4TH3R&theme=dark&hide_border=true&background=0d1117&stroke=FF0000&ring=FF0000&fire=FF6600&currStreakLabel=FF0000"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xC0D3F4TH3R&bg_color=0d1117&color=FF0000&line=FF0000&point=ffffff&area=true&hide_border=true"/>
 
