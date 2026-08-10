@@ -59,15 +59,15 @@ mindset:  I don't know everything, and I'm not pretending to.
 ## 🗺️ Learning Timeline
 
 ```
-2024 ─● Linux internals + networking fundamentals
+2025 ─● Linux internals + networking fundamentals
       │
-2024 ─● Python for scripting & automation
+2025 ─● Python for scripting & automation
       │
 2025 ─● TryHackMe grind — web exploitation, priv-esc, AD basics
       │
-2025 ─● First steps into reverse engineering — ASM, Ghidra, crackmes
+2026 ─● First steps into reverse engineering — ASM, Ghidra, crackmes
       │
-2025 ─● Rooted first HTB boxes
+2026 ─● Rooted first HTB boxes
       │
 2026 ─● Malware analysis fundamentals — static/dynamic, isolated VMs
  NOW  ─● Exploring AI applications in security + writing small lab tools
