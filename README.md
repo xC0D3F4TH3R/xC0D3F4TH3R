@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1A1A2E&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:330000,50:660000,75:990000,100:FF0000&height=260&section=header&text=ARYAN%20TOMAR&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Learning%20Security%2C%20One%20Layer%20at%20a%20Time&descAlignY=52&descSize=18" width="100%"/>
@@ -16,8 +15,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%207%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/xAry4n01tom4r)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomar-aryan-228149326)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobaryantomar898@email.com)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Cyber+Security+Enthusiast;TryHackMe+Top+7%25;Always+Learning+%2C+Always+Hacking)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+whoami;Cyber+Security+Enthusiast;%3E+cat+rank.txt;TryHackMe+Top+7%25;sudo+Always+Learning...)](https://git.io/typing-svg)
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
