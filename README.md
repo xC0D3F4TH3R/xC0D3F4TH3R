@@ -17,7 +17,7 @@
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobaryantomar898@email.com)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+whoami;Cyber+Security+Enthusiast;%3E+cat+rank.txt;TryHackMe+Top+7%25;sudo+Always+Learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+whoami;Cyber+Security+Enthusiast;sudo+Always+Learning...)](https://git.io/typing-svg)
 
 
 </div>
