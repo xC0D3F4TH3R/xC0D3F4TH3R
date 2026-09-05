@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1A1A2E&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:330000,50:660000,75:990000,100:FF0000&height=260&section=header&text=ARYAN%20TOMAR&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Learning%20Security%2C%20One%20Layer%20at%20a%20Time&descAlignY=52&descSize=18" width="100%"/>
