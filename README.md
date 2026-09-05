@@ -11,7 +11,7 @@
 <br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aryantomar898-gif&color=ff0000&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aryantomar898-gif)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Learning-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/019c71bf-aad2-7242-8c28-f9850809a385)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Learning-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c71bf-aad2-7242-8c28-f9850809a385)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-005C9E?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/whoisaryantom4r)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomar-aryan-228149326)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobaryantomar898@email.com)
