@@ -15,6 +15,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%207%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/xAry4n01tom4r)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomar-aryan-228149326)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobaryantomar898@email.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Cyber+Security+Enthusiast;TryHackMe+Top+7%25;Always+Learning+%2C+Always+Hacking)](https://git.io/typing-svg)
 
 </div>
 
